@@ -1,0 +1,10 @@
+AWS-Examples/cluster-web-server/terraform.tfstate
+AWS-Examples/cluster-web-server/terraform.tfstate.backup
+AWS-Examples/cluster-web-server/.terraform/providers/registry.terraform.io/hashicorp/aws/5.78.0/linux_amd64/terraform-provider-aws_v5.78.0_x5
+AWS-Examples/configuration-single-server/.terraform.lock.hcl
+AWS-Examples/configuration-single-server/.terraform/providers/registry.terraform.io/hashicorp/aws/5.78.0/linux_amd64/LICENSE.txt
+AWS-Examples/configuration-single-server/terraform.tfstate
+AWS-Examples/configuration-single-server/terraform.tfstate.backup
+AWS-Examples/configuration-single-server/.terraform/providers/registry.terraform.io/hashicorp/aws/5.78.0/linux_amd64/terraform-provider-aws_v5.78.0_x5
+AWS-Examples/cluster-web-server/.terraform.lock.hcl
+AWS-Examples/cluster-web-server/.terraform/providers/registry.terraform.io/hashicorp/aws/5.78.0/linux_amd64/LICENSE.txt
